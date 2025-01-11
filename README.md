@@ -18,6 +18,7 @@ Folder structure:- https://stackblitz.com/edit/react-jglkyv?file=src%2Fcomponent
 
 Table Paginator:- https://stackblitz.com/edit/react-ydsgru?file=src%2FApp.js
 Razorpay MC round:- https://codesandbox.io/p/sandbox/6pwvzl
+Namaste react noes: -https://www.linkedin.com/posts/depaksharma_namastey-react-activity-7283751556833853441-LZlZ?utm_source=share&utm_medium=member_desktop
 
 irctc user - kartiky246_k
 
